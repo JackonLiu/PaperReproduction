@@ -3,8 +3,9 @@
 qq
 837216129
 
-## python代写机器学习，代做深度学习作业
+## 代写机器学习，代做深度学习作业，有偿接单python程序设计
 我博客
+data-mining.blog.csdn.net
 
 包括以下内容
 程序开发（Python、Java、C#、C++、PHP、前端开发、网页开发、APP开发、后端开发、大数据开发等）
